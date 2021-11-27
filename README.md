@@ -4,61 +4,48 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(1).pdf" style="text-decoration:none;">3D Pose Estimation of Articulated Instruments in Robotic Minimally Invasive Surgery</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(2).pdf" style="text-decoration:none;">Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(3).pdf" style="text-decoration:none;">Long Term Safety Area Tracking (LT-SAT) with Online Failure Detection and Recovery for Robotic Minimally Invasive Surgery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(4).pdf" style="text-decoration:none;">Human Pose Estimation on Privacy-Preserving Low-Resolution Depth Images</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(5).pdf" style="text-decoration:none;">EasyLabels: Weak labels for scene segmentation in laparoscopic videos</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Face Detection in the Operating Room: Comparison of State-of-the-art Methods and a Self-supervised Approach</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(8).pdf" style="text-decoration:none;"> OperA: Attention-Regularized Transformers for Surgical Phase Recognition </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(9).pdf" style="text-decoration:none;">A Multi-view RGB-D Approach for Human Pose Estimation in Operating Rooms</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(10).pdf" style="text-decoration:none;">Self-supervision on Unlabelled OR Data for Multi-person 2D/3D Human Pose Estimation </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(11).pdf" style="text-decoration:none;">Comparative evaluation of instrument segmentation and tracking methods in minimally invasive surgery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(12).pdf" style="text-decoration:none;">Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(13).pdf" style="text-decoration:none;">SurgeonAssist-Net: Towards Context-Aware Head-Mounted Display-Based Augmented Reality for Surgical Guidance</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(14).pdf" style="text-decoration:none;">Vision-Based and Marker-Less Surgical Tool Detection and Tracking: a Review of the Literature</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(15).pdf" style="text-decoration:none;">Future-State Predicting LSTM for Early Surgery Type Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(16).pdf" style="text-decoration:none;">Towards Unified Surgical Skill Assessment</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(17).pdf" style="text-decoration:none;">Real-time identification of blood regions for hemostasis support in laparoscopic surgery</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(18).pdf" style="text-decoration:none;">Non-Linear Temporal Scaling of Surgical Processes</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(19).pdf" style="text-decoration:none;">Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(20).pdf" style="text-decoration:none;">Vision-Based Proximity Detection in Retinal Surgery</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(21).pdf" style="text-decoration:none;">Surgical Data Science – from Concepts toward Clinical Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(22).pdf" style="text-decoration:none;">Weakly-Supervised Learning for Tool Localization in Laparoscopic Videos</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(23).pdf" style="text-decoration:none;">Temporal coherence-based self-supervised learning for laparoscopic workflow analysis</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Temporal Memory Relation Network for Workflow Recognition from Surgical Video</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(25).pdf" style="text-decoration:none;">A Review on Deep Learning in Minimally Invasive Surgery</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Certifying a File System Using
 Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(27).pdf" style="text-decoration:none;">A Differential Approach to
