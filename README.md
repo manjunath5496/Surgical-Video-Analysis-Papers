@@ -90,11 +90,11 @@ Contextual Artificial Intelligence in Computer-Assisted Interventions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(51).pdf" style="text-decoration:none;">EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(52).pdf" style="text-decoration:none;">Uncertainty-Aware Organ Classification for Surgical Data Science Applications in Laparoscopy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(53).pdf" style="text-decoration:none;">E-DSSR: Ecient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(53).pdf" style="text-decoration:none;">E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(54).pdf" style="text-decoration:none;">Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(55).pdf" style="text-decoration:none;">Oine identication of surgical deviations in laparoscopic rectopexy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(55).pdf" style="text-decoration:none;">Online identification of surgical deviations in laparoscopic rectopexy</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(56).pdf" style="text-decoration:none;">Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning </a></li>                              
 
@@ -113,7 +113,7 @@ Contextual Artificial Intelligence in Computer-Assisted Interventions</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(64).pdf" style="text-decoration:none;">Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(65).pdf" style="text-decoration:none;">Searching for Ecient Architecture for Instrument Segmentation in Robotic Surgery </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(65).pdf" style="text-decoration:none;">Searching for Efficient Architecture for Instrument Segmentation in Robotic Surgery </a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Surgical-Video-Analysis-Papers/blob/master/s(66).pdf" style="text-decoration:none;">Automatic matching of surgeries to predict surgeons next actions</a></li> 
  
